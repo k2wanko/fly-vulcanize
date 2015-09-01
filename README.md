@@ -45,6 +45,7 @@ export default function* () {
 
 [MIT][mit] © [Kazuhiro Kubota][author] et [al][contributors]
 
+
 [mit]:          http://opensource.org/licenses/MIT
 [author]:       http://github.com/k2wanko
 [contributors]: https://github.com/k2wanko/fly-vulcanize/graphs/contributors
