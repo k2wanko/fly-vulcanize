@@ -44,20 +44,16 @@ export default function* () {
 # License
 
 [MIT][mit] © [Kazuhiro Kubota][author] et [al][contributors]
+
 [mit]:          http://opensource.org/licenses/MIT
 [author]:       http://github.com/k2wanko
-[contributors]:
-https://github.com/k2wanko/fly-vulcanize/graphs/contributors
+[contributors]: https://github.com/k2wanko/fly-vulcanize/graphs/contributors
 [releases]:     https://github.com/k2wanko/fly-vulcanize/releases
 [fly]:          https://www.github.com/flyjs/fly
-[fly-badge]:
-https://img.shields.io/badge/fly-JS-05B3E1.svg?style=flat-square
-[mit-badge]:
-https://img.shields.io/badge/license-MIT-444444.svg?style=flat-square
+[fly-badge]: https://img.shields.io/badge/fly-JS-05B3E1.svg?style=flat-square
+[mit-badge]: https://img.shields.io/badge/license-MIT-444444.svg?style=flat-square
 [npm-pkg-link]: https://www.npmjs.org/package/fly-vulcanize
-[npm-ver-link]:
-https://img.shields.io/npm/v/fly-vulcanize.svg?style=flat-square
-[dl-badge]:
-http://img.shields.io/npm/dm/fly-vulcanize.svg?style=flat-square
+[npm-ver-link]: https://img.shields.io/npm/v/fly-vulcanize.svg?style=flat-square
+[dl-badge]: http://img.shields.io/npm/dm/fly-vulcanize.svg?style=flat-square
 [travis-link]:  https://travis-ci.org/k2wanko/fly-vulcanize
 [travis-badge]: http://img.shields.io/travis/k2wanko/fly-vulcanize.svg?style=flat-square
