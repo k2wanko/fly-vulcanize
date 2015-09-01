@@ -1,0 +1,39 @@
+{
+  "name": "fly-vulcanize",
+  "description": "Vulcanize plugin for fly",
+  "version": "0.0.1",
+  "author": "k2wanko <k2.wanko@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/k2wanko/fly-vulcanize/issues"
+  },
+  "dependencies": {
+    "vulcanize": "^1.10.3"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/k2wanko/fly-vulcanize#readme",
+  "keywords": [
+    "fly",
+    "fly-plugin",
+    "polymer",
+    "vulcanize",
+    "web components"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "http://k2wanko.mit-license.org/"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2wanko/fly-vulcanize.git"
+  },
+  "scripts": {
+    "test": "npm run test-harmony",
+    "test-harmony": "node --harmony --harmony_arrow_functions ./node_modules/tape/bin/tape test.js"
+  }
+}
