@@ -28,16 +28,16 @@ npm install -D fly-vulcanize
 #### ES6
 ```js
 export default function* () {
-yield this.clear("app")
-yield this
-.source("elements/elements.html")
-.vulcanize({
-  abspath: '',
-  inlineScripts: true,
-  inlineCss: true,
-  stripComments: true
-})
-.target("app")
+  yield this.clear("app")
+  yield this
+  .source("elements/elements.html")
+  .vulcanize({
+    abspath: '',
+    inlineScripts: true,
+    inlineCss: true,
+    stripComments: true
+  })
+  .target("app")
 }
 ```
 
